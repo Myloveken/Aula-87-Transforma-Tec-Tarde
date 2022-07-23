@@ -34,7 +34,6 @@ public class AgeVerifier {
                 System.out.println(ae.getMessage());
             }
         } catch (NumberFormatException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
