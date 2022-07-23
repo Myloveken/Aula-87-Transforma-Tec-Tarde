@@ -37,7 +37,7 @@ public class ListException {
                 }
 
             } catch (ItemNotFoundException ie) {
-                // TODO: handle exception
+
                 System.out.println(ie.getMessage());
             }
         }
